@@ -29,7 +29,7 @@
     "@rsbuild/plugin-eslint": "^1.2.0",
     "@rsbuild/plugin-react": "^1.4.2",
     "@rsdoctor/rspack-plugin": "^1.4.0",
-    "@rstest/core": "^0.7.7",
+    "@rstest/core": "^0.7.8",
     "@rstest/coverage-istanbul": "^0.1.4",
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
