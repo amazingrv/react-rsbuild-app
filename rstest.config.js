@@ -4,12 +4,12 @@ import { defineConfig } from '@rstest/core';
 // Docs: https://rstest.rs/config/
 export default defineConfig({
   plugins: [pluginReact()],
-  reporters: 'verbose',
+  globals: true,
   coverage: {
     enabled: true,
     provider: 'istanbul',
     clean: true,
   },
-  testEnvironment: 'jsdom',
+  testEnvironment: 'happy-dom',
   setupFiles: ['./rstest.setup.js'],
 });

@@ -16,7 +16,7 @@ import { defineConfig, globalIgnores } from 'eslint/config';
 import globals from 'globals';
 
 export default defineConfig([
-  globalIgnores(['**/package-lock.json', 'dist']),
+  globalIgnores(['**/package-lock.json', 'dist', 'coverage']),
 
   // 1. JavaScript / React Config
   {
