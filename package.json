@@ -52,7 +52,7 @@
     "eslint-plugin-unused-imports": "^4.4.1",
     "globals": "^17.5.0",
     "happy-dom": "^20.9.0",
-    "liquidjs": "^10.25.6",
+    "liquidjs": "^10.25.7",
     "prettier": "^3.8.3"
   }
 }
