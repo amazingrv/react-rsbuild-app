@@ -30,7 +30,7 @@
     "@rsbuild/plugin-react": "^1.4.6",
     "@rsdoctor/rspack-plugin": "^1.5.9",
     "@rstest/core": "^0.8.5",
-    "@rstest/coverage-istanbul": "^0.2.1",
+    "@rstest/coverage-istanbul": "^0.3.2",
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
