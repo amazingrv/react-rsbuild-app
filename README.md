@@ -1,4 +1,4 @@
-# Rsbuild project
+# Rsbuild project update
 
 ## Setup
 
