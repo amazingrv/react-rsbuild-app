@@ -1,4 +1,4 @@
-# Rsbuild project
+# React Rsbuild App
 
 ## Setup
 
