@@ -1,6 +1,4 @@
-import css from '@eslint/css';
 import js from '@eslint/js';
-import json from '@eslint/json';
 import importPlugin from 'eslint-plugin-import';
 import jsxA11y from 'eslint-plugin-jsx-a11y';
 import perfectionist from 'eslint-plugin-perfectionist';
@@ -94,20 +92,6 @@ export default defineConfig([
         },
       },
     },
-  },
-
-  // 2. JSON Config
-  {
-    files: ['**/*.json'],
-    language: 'json/json',
-    ...json.configs.recommended,
-  },
-
-  // 3. CSS Config
-  {
-    files: ['**/*.css'],
-    language: 'css/css',
-    ...css.configs.recommended,
   },
 
   {
